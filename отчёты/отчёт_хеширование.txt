@@ -1,0 +1,3 @@
+SHA-256: 956f8830be41e5301e830761f957e5bb6aed9edec53c6d6c9024a2a61e40c135
+Оригинал: True
+Изменён: False

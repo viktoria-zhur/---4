@@ -1,0 +1,14 @@
+WannaCry (2017): вымогательское ПО/червь
+Шифрование файлов для вымогательства; распространение через уязвимость SMB.
+Меры: Патчи, сегментация, резервные копии, ограничение SMB.
+Источник: https://www.cisa.gov/news-events/alerts/2017/05/12/indicators-associated-wannacry-ransomware
+
+NotPetya (2017): разрушительное вредоносное ПО
+Шифровальные операции применялись в разрушительной кампании; оплата не гарантировала восстановление.
+Меры: Сегментация, офлайн-бэкапы, контроль обновлений и учётных данных.
+Источник: https://www.cisa.gov/news-events/alerts/2017/06/27/petya-ransomware
+
+Colonial Pipeline (2021): инцидент DarkSide
+Шифрование корпоративных систем; остановка операций как превентивное решение.
+Меры: Разделение IT/OT, MFA, резервирование, план непрерывности.
+Источник: https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists
